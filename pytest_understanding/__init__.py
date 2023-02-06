@@ -1,0 +1,3 @@
+from pytest_understanding.classes.SomeClass import SomeClass
+
+class SomeClass(SomeClass): ...
